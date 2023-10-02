@@ -1,7 +1,7 @@
 	\section{Use Case Diagram}
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=1\textwidth]{usecase.png} 
+	\includegraphics[width=1\textwidth]{UML.jpg} 
 	\caption{Use Case Model}
 	\label{fig:Use Case Model}
 \end{figure}
@@ -9,54 +9,53 @@
 \section{Use Cases}
 \textbf{Actor Definitions:}
 \begin{itemize}
-	\item \textbf{Procurement Managers}: These are users responsible for managing the procurement of raw materials and supplier relationships.
-	\item \textbf{Logistics Managers}: These users oversee transportation, shipping, and warehouse operations.
+	\item \textbf{Logistics Managers}: These users oversee transportation, shipping, and supplier operations and relation.
 	\item \textbf{Warehouse Managers}: They manage warehouse operations, including storage space utilization and order fulfillment.
-	\item \textbf{Inventory Managers}: These users are responsible for inventory management and turnover rate analysis.
+	\item \textbf{Inventory Managers}: These users are responsible for inventory management based on shipment and supplier information and turnover rate analysis.
 \end{itemize}
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & System Name \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-1 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Sharanyu Pillai
+			\item Author Email: sharanyu@hotmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
 		\hline
-		Priority & High \\
+		Priority & Medium \\
 		\hline
-		Name & Analysis of the Lead Time for material procurement \\
+		Name & Calculating Average supplier delivery cost for the stock procured \\
 		\hline
 		Pre-Condition(s) &  \begin{itemize}[left=0pt]
 			\item User has a valid account on the system.
-			\item Procurement data is available in the system.
+			\item Supply stock data is available in the system.
 		\end{itemize} \\
 		\hline
 		Post-Condition(s) & \begin{itemize}[left=0pt]
 			\item Lead time analysis report is generated.
 		\end{itemize} \\
 		\hline
-		Trigger & Procurement Manager initiates the analysis. \\
+		Trigger & Logistics Manager initiates the analysis. \\
 		\hline
 		Normal Flow & \begin{enumerate}[left=0pt]
-			\item Procurement Manager logs into the system.
-			\item Procurement Manager selects the lead time analysis option.
-			\item Procurement Manager inputs procurement lead time data.
-			\item System generates a lead time analysis report.
+			\item Logistics Manager logs into the system.
+			\item Logistics Manager selects the lead time analysis option.
+			\item Logistics Manager inputs procurement lead time data.
+			\item System generates an analysis report.
 		\end{enumerate} \\
 		\hline
 		Exceptional Flow & None \\
 		\hline
-		Related Actor(s) & Procurement Managers \\
+		Related Actor(s) & Logistics Managers \\
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & Procurement Managers analyze lead times for the procurement of raw materials to identify trends and make improvements. \\
+		Logistics Manager averages shipping cost for the supply obtained monthly and quarterly to make improvements and reduce expenses in the future. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -64,13 +63,13 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-2 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Sharanyu Pillai
+			\item Author Email: sharanyu@hotmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
@@ -88,10 +87,10 @@
 			\item Supplier delivery time trend report generated.
 		\end{itemize} \\
 		\hline
-		Trigger & Procurement Manager initiates analysis. \\
+		Trigger & Logistics Manager initiates analysis. \\
 		\hline
 		Normal Flow & \begin{enumerate}[left=0pt]
-			\item Procurement Manager logs in.
+			\item Logistics Manager logs in.
 			\item Selects supplier delivery time trend analysis.
 			\item Inputs delivery time data.
 			\item System generates supplier delivery time trend.
@@ -99,11 +98,11 @@
 		\hline
 		Exceptional Flow & None \\
 		\hline
-		Related Actor(s) & Procurement Managers \\
+		Related Actor(s) & Logistics Managers \\
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & Procurement Managers analyze supplier delivery time trends to identify months and quarters with significant changes. \\
+		Description & Logistics Managers analyze supplier delivery time trends to identify months and quarters with significant changes. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -111,13 +110,13 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-3 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Wei Qi
+			\item Author Email: qiwei12181@163.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
@@ -150,7 +149,7 @@
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & None. \\
+		Description & Logistics Managers analyze shipping cost trends for each shipping method to optimize cost-effectiveness. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -158,13 +157,13 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-4 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Wei Qi
+			\item Author Email: qiwei12181@163.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
@@ -197,7 +196,7 @@
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & [Add a brief description if needed] \\
+		Description & Warehouse Managers monitor storage space utilization on a monthly and quarterly basis to identify fluctuations and optimize space allocation. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -205,13 +204,13 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-5 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Anitha Ramakrishnan
+			\item Author Email: anitha5685@gmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
@@ -244,7 +243,7 @@
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & [Add a brief description if needed] \\
+		Description & Inventory Managers analyze inventory turnover rates to identify months and quarters with significant changes. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -252,20 +251,20 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-6 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Anitha Ramakrishnan
+			\item Author Email: anitha5685@gmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
 		\hline
 		Priority & Moderate \\
 		\hline
-		Name & Supplier Performance Ranking \\
+		Name & List top 10 Suppliers based on their Performance Ranking \\
 		\hline
 		Pre-Condition(s) &  \begin{itemize}[left=0pt]
 			\item Valid user account in the system.
@@ -273,13 +272,13 @@
 		\end{itemize} \\
 		\hline
 		Post-Condition(s) & \begin{itemize}[left=0pt]
-			\item Supplier ranking report generated.
+			\item Top 10 Supplier ranking list generated.
 		\end{itemize} \\
 		\hline
-		Trigger & Procurement Manager initiates ranking. \\
+		Trigger & Logistics Manager initiates ranking. \\
 		\hline
 		Normal Flow & \begin{enumerate}[left=0pt]
-			\item Procurement Manager logs in.
+			\item Logistics Manager logs in.
 			\item Selects supplier performance ranking option.
 			\item Utilizes inputs for supplier performance data.
 			\item System generates supplier ranking report.
@@ -287,11 +286,11 @@
 		\hline
 		Exceptional Flow & None \\
 		\hline
-		Related Actor(s) & Procurement Managers \\
+		Related Actor(s) & Logistics Managers \\
 		\hline
-		Related Use Case(s) & None \\
+		Related Use Case(s) & UC-1 and UC-2 \\
 		\hline
-		Description & [Add a brief description if needed] \\
+		Description & Logistics Managers rank suppliers based on their on-time delivery performance and more affordable delivery cost on a monthly and quarterly basis. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -299,13 +298,13 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-7 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Arshiya Sahni
+			\item Author Email: arshiyasahni87@gmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
@@ -338,7 +337,7 @@
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & [Add a brief description if needed] \\
+		Description & Logistics Managers analyze the popularity of transportation routes for shipments on a monthly basis. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -346,13 +345,13 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-8 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Arshiya Sahni
+			\item Author Email: arshiyasahni87@gmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
@@ -385,7 +384,7 @@
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & [Add a brief description if needed] \\
+		Description & Logistics Managers analyze shipping delays by region on a yearly basis to identify regions with the highest delays. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -393,13 +392,13 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-9 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Vinay Sahrawat
+			\item Author Email: vinaysahrawat183a@gmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
@@ -432,7 +431,7 @@
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & [Add a brief description if needed] \\
+		Description & Inventory Managers assess the risk of stockouts by analyzing inventory levels and demand forecasts. \\
 		\hline
 	\end{tabularx}
 \end{center}
@@ -440,46 +439,46 @@
 \begin{center}
 	\begin{tabularx}{\textwidth}{|l|X|}
 		\hline
-		System & [System Name] \\
+		System & METRICSTICS \\
 		\hline
 		Identifier & UC-10 \\
 		\hline
 		Author(s) & \begin{itemize}[left=0pt]
-			\item Author Name:
-			\item Author Email:
+			\item Author Name: Vinay Sahrawat
+			\item Author Email: vinaysahrawat183a@gmail.com
 		\end{itemize} \\
 		\hline
 		Version & 1.0 \\
 		\hline
 		Priority & High \\
 		\hline
-		Name & Calculating Demand Forecast Accuracy \\
+		Name & Calculating number of orders fulfilled in a year \\
 		\hline
 		Pre-Condition(s) &  \begin{itemize}[left=0pt]
 			\item Valid user account in the system.
-			\item Availability of demand forecast and actual demand data.
+			\item Availability of demand forecast and actual demand data.Availability of number of orders shipped from warehouse data.
 		\end{itemize} \\
 		\hline
 		Post-Condition(s) & \begin{itemize}[left=0pt]
 			\item Forecast accuracy analysis report generated.
 		\end{itemize} \\
 		\hline
-		Trigger & Inventory Manager initiates analysis. \\
+		Trigger & Warehouse Manager initiates analysis. \\
 		\hline
 		Normal Flow & \begin{enumerate}[left=0pt]
-			\item Inventory Manager logs in.
-			\item Selects demand forecast accuracy analysis option.
-			\item Inputs actual demand data.
-			\item System generates forecast accuracy analysis report.
+			\item Warehouse Manager logs in.
+			\item Selects numbers of order shipped option.
+			\item Inputs format of viewing report data.
+			\item System generates analysis report for order fulfillment.
 		\end{enumerate} \\
 		\hline
 		Exceptional Flow & None \\
 		\hline
-		Related Actor(s) & Inventory Managers \\
+		Related Actor(s) & Warehouse Managers \\
 		\hline
 		Related Use Case(s) & None \\
 		\hline
-		Description & [Add a brief description if needed] \\
+		Description & Warehouse Managers analyze the shipped order number from the warehouse and generate a report. \\
 		\hline
 	\end{tabularx}
 \end{center}

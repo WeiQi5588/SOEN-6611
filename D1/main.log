@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.3)  2 OCT 2023 04:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.3)  2 OCT 2023 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -413,7 +413,7 @@ Package hyperref Info: Link coloring OFF on input line 24.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-<concordia.jpg, id=48, 438.70944pt x 139.9595pt>
+<concordia.jpg, id=56, 438.70944pt x 139.9595pt>
 File: concordia.jpg Graphic file (type jpg)
 <use concordia.jpg>
 Package pdftex.def Info: concordia.jpg  used on input line 49.
@@ -469,23 +469,660 @@ Overfull \hbox (21.13857pt too wide) in paragraph at lines 2--16
 ] [5] [6] [7]) [8]
 Chapter 3.
 (./problem2.tex
-<usecase.png, id=146, 642.4pt x 597.23125pt>
-File: usecase.png Graphic file (type png)
-<use usecase.png>
-Package pdftex.def Info: usecase.png  used on input line 4.
-(pdftex.def)             Requested size: 390.0pt x 362.58817pt.
+<UML.jpg, id=156, 704.6325pt x 772.8875pt>
+File: UML.jpg Graphic file (type jpg)
+<use UML.jpg>
+Package pdftex.def Info: UML.jpg  used on input line 4.
+(pdftex.def)             Requested size: 390.0pt x 427.7783pt.
  [9
 
- <./usecase.png (PNG copy)>] [10] [11] [12] [13] [14]
-[15] [16] [17] [18] [19]) [20] (./main.aux)
+ <./UML.jpg>]
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 60.
+
+
+Overfull \hbox (71.1187pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 METRICSTICS| 
+ []
+
+
+Overfull \hbox (9.4588pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 UC-
+ []
+
+
+Overfull \hbox (36.87015pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Author
+ []
+
+
+Overfull \hbox (32.95444pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Name:
+ []
+
+
+Overfull \hbox (22.84302pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Sha-
+ []
+
+
+Overfull \hbox (29.36919pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ranyu
+ []
+
+
+Overfull \hbox (18.43573pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Pil-
+ []
+
+
+Overfull \hbox (12.4011pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 lai 
+ []
+
+
+Overfull \hbox (36.87015pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Author
+ []
+
+
+Overfull \hbox (33.44594pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Email:
+ []
+
+
+Overfull \hbox (20.95041pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sha-
+ []
+
+
+Overfull \hbox (101.80975pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ranyu@hotmail.com 
+ []
+
+
+Overfull \hbox (3.26308pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 1.0| 
+ []
+
+
+Overfull \hbox (30.34259pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 Medium| 
+ []
+
+
+Overfull \hbox (46.98846pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 Calculating
+ []
+
+
+Overfull \hbox (5.86938pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Av-
+ []
+
+
+Overfull \hbox (1.95787pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 er-
+ []
+
+
+Overfull \hbox (5.22096pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 age
+ []
+
+
+Overfull \hbox (9.85452pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sup-
+ []
+
+
+Overfull \hbox (11.0945pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 plier
+ []
+
+
+Overfull \hbox (3.91573pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 de-
+ []
+
+
+Overfull \hbox (4.89459pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 liv-
+ []
+
+
+Overfull \hbox (4.24202pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ery
+ []
+
+
+Overfull \hbox (8.54927pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 cost
+ []
+
+
+Overfull \hbox (2.28416pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 for
+ []
+
+
+Overfull \hbox (4.56834pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (14.74911pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 stock
+ []
+
+
+Overfull \hbox (9.13666pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 pro-
+ []
+
+
+Overfull \hbox (16.31546pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 cured| 
+ []
+
+
+Overfull \hbox (23.23042pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 User
+ []
+
+
+Overfull \hbox (17.0347pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 has
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 a
+ []
+
+
+Overfull \hbox (24.4745pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 valid
+ []
+
+
+Overfull \hbox (15.01158pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ac-
+ []
+
+
+Overfull \hbox (28.39026pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 count
+ []
+
+
+Overfull \hbox (12.40112pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 on
+ []
+
+
+Overfull \hbox (16.31685pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (19.3841pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sys-
+ []
+
+
+Overfull \hbox (22.84302pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 tem. 
+ []
+
+
+Overfull \hbox (35.56905pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Supply
+ []
+
+
+Overfull \hbox (26.49762pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 stock
+ []
+
+
+Overfull \hbox (22.84302pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 data
+ []
+
+
+Overfull \hbox (7.89803pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 is
+ []
+
+
+Overfull \hbox (27.41129pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 avail-
+ []
+
+
+Overfull \hbox (20.88516pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 able
+ []
+
+
+Overfull \hbox (9.79063pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 in
+ []
+
+
+Overfull \hbox (16.31685pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (19.3841pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sys-
+ []
+
+
+Overfull \hbox (22.84302pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 tem. 
+ []
+
+
+Overfull \hbox (24.96196pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Lead
+ []
+
+
+Overfull \hbox (22.84302pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 time
+ []
+
+
+Overfull \hbox (25.45348pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 anal-
+ []
+
+
+Overfull \hbox (10.11694pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 y-
+ []
+
+
+Overfull \hbox (12.5316pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sis
+ []
+
+
+Overfull \hbox (13.70638pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 re-
+ []
+
+
+Overfull \hbox (21.86407pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 port
+ []
+
+
+Overfull \hbox (7.89803pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 is
+ []
+
+
+Overfull \hbox (21.5378pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 gen-
+ []
+
+
+Overfull \hbox (13.70638pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 er-
+ []
+
+
+Overfull \hbox (25.45349pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ated. 
+ []
+
+
+Overfull \hbox (32.92244pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 Logistics
+ []
+
+
+Overfull \hbox (15.33237pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Man-
+ []
+
+
+Overfull \hbox (9.78929pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ager
+ []
+
+
+Overfull \hbox (5.22092pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ini-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (8.5493pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ates
+ []
+
+
+Overfull \hbox (4.56834pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (13.70497pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 anal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\T1/cmr/m/n/12 y-
+ []
+
+
+Overfull \hbox (4.04617pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sis.| 
+ []
+
+
+Overfull \hbox (3.26445pt too wide) in paragraph at lines 60--60
+[]
+ []
+
+
+Overfull \hbox (47.93402pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Logistics
+ []
+
+
+Overfull \hbox (30.34395pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Man-
+ []
+
+
+Overfull \hbox (24.80087pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ager
+ []
+
+
+Overfull \hbox (22.90823pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 logs
+ []
+
+
+Overfull \hbox (23.1693pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 into
+ []
+
+
+Overfull \hbox (19.57993pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (22.64717pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sys-
+ []
+
+
+Overfull \hbox (26.1061pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 tem. 
+ []
+
+
+Overfull \hbox (3.26445pt too wide) in paragraph at lines 60--60
+[]
+ []
+
+
+Overfull \hbox (47.93402pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Logistics
+ []
+
+
+Overfull \hbox (30.34395pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Man-
+ []
+
+
+Overfull \hbox (24.80087pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ager
+ []
+
+
+Overfull \hbox (17.0347pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 se-
+ []
+
+
+Overfull \hbox (26.17133pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 lects
+ []
+
+
+Overfull \hbox (19.57993pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (24.14824pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 lead
+ []
+
+
+Overfull \hbox (26.1061pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 time
+ []
+
+
+Overfull \hbox (28.71655pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 anal-
+ []
+
+
+Overfull \hbox (13.38002pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 y-
+ []
+
+
+Overfull \hbox (15.79468pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sis
+ []
+
+
+Overfull \hbox (19.57991pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 op-
+ []
+
+
+Overfull \hbox (26.75868pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 tion. 
+ []
+
+
+Overfull \hbox (3.26445pt too wide) in paragraph at lines 60--60
+[]
+ []
+
+
+Overfull \hbox (47.93402pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Logistics
+ []
+
+
+Overfull \hbox (30.34395pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Man-
+ []
+
+
+Overfull \hbox (24.80087pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ager
+ []
+
+
+Overfull \hbox (16.96942pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 in-
+ []
+
+
+Overfull \hbox (25.51872pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 puts
+ []
+
+
+Overfull \hbox (24.14824pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 pro-
+ []
+
+
+Overfull \hbox (28.71657pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 cure-
+ []
+
+
+Overfull \hbox (29.0429pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ment
+ []
+
+
+Overfull \hbox (24.14824pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 lead
+ []
+
+
+Overfull \hbox (26.1061pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 time
+ []
+
+
+Overfull \hbox (29.36917pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 data. 
+ []
+
+
+Overfull \hbox (3.26445pt too wide) in paragraph at lines 60--60
+[]
+ []
+
+
+Overfull \hbox (40.20264pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 System
+ []
+
+
+Overfull \hbox (24.80087pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 gen-
+ []
+
+
+Overfull \hbox (16.96945pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 er-
+ []
+
+
+Overfull \hbox (23.56088pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 ates
+ []
+
+
+Overfull \hbox (15.6642pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 an
+ []
+
+
+Overfull \hbox (28.71655pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 anal-
+ []
+
+
+Overfull \hbox (13.38002pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 y-
+ []
+
+
+Overfull \hbox (15.79468pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 sis
+ []
+
+
+Overfull \hbox (16.96945pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 re-
+ []
+
+
+Overfull \hbox (28.39023pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 port. 
+ []
+
+
+Overfull \hbox (14.67976pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 None| 
+ []
+
+
+Overfull \hbox (32.92244pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 Logistics
+ []
+
+
+Overfull \hbox (15.33237pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 Man-
+ []
+
+
+Overfull \hbox (14.42287pt too wide) in paragraph at lines 60--60
+\T1/cmr/m/n/12 agers| 
+ []
+
+
+Overfull \hbox (14.67976pt too wide) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 None| 
+ []
+
+
+Overfull \hbox (403.09695pt too wide) in alignment at lines 60--60
+[][] 
+ []
+
+[10]
+Overfull \vbox (1447.40913pt too high) has occurred while \output is active []
+
+
+[11]
+Underfull \hbox (badness 4120) in paragraph at lines 154--154
+\T1/cmr/m/n/12 for each ship-ping method to op-ti-mize cost-
+ []
+
+[12] [13]
+Underfull \hbox (badness 1117) in paragraph at lines 248--248
+[]|\T1/cmr/m/n/12 Inventory Man-agers an-a-lyze in-ven-tory turnover
+ []
+
+[14] [15] [16] [17] [18]
+Underfull \hbox (badness 2245) in paragraph at lines 483--483
+\T1/cmr/m/n/12 mand data.Availability of num-ber of or-ders
+ []
+
+[19]) [20]
+Chapter 4.
+[21
+
+] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CE1DA0996A67F790CEC9860D44874E66;1462.
+(rerunfilecheck)             Checksum: D4295EE7019C492C4781C42871580A83;1768.
  ) 
 Here is how much of TeX's memory you used:
- 11858 strings out of 476024
- 187611 string characters out of 5789526
- 1863382 words of memory out of 5000000
- 32030 multiletter control sequences out of 15000+600000
+ 11862 strings out of 476024
+ 187630 string characters out of 5789526
+ 1864382 words of memory out of 5000000
+ 32032 multiletter control sequences out of 15000+600000
  526355 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,9n,76p,1072b,827s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -502,10 +1139,10 @@ ftware/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/sof
 tware/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/soft
 ware/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><d:/softw
 are/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on main.pdf (22 pages, 359383 bytes).
+Output written on main.pdf (23 pages, 411457 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 262 compressed objects within 3 object streams
- 105 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 275 compressed objects within 3 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
